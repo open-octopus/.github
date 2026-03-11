@@ -16,6 +16,10 @@
 
 **The killer feature: [Summon](https://openoctopus.club/#summon).** Turn any real-world entity — your dog, your mom, your car — into a living AI agent with memory, personality, and proactive behavior.
 
+<p align="center">
+  <img src="docs/images/ecosystem-map.png" alt="OpenOctopus Ecosystem Map" width="800">
+</p>
+
 ### 🐙 Projects
 
 | Repo | Description |
@@ -34,9 +38,9 @@
 
 ### ✦ Core Concepts
 
-```
-Realm → Entity → [Summon] → Agent Team → Skill → Action / Insight
-```
+<p align="center">
+  <img src="docs/images/core-concepts.png" alt="OpenOctopus Core Concepts" width="800">
+</p>
 
 - **Realm** — Autonomous life domain (like an octopus tentacle with its own nerve center)
 - **Entity** — Object within a realm (living, asset, organization, abstract)
