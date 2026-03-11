@@ -1,0 +1,59 @@
+name: Realm Package Request
+description: Suggest a new Realm package for the OpenOctopus ecosystem.
+labels: ["realm-package", "enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Want a new Realm? Describe the life domain you'd like to see as an OpenOctopus Realm package.
+  - type: input
+    id: realm-name
+    attributes:
+      label: Realm Name
+      description: A short name for this Realm.
+      placeholder: e.g. Travel, Education, Gardening
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Realm Description
+      description: What life domain does this Realm cover? What problems does it solve?
+    validations:
+      required: true
+  - type: textarea
+    id: entities
+    attributes:
+      label: Example Entities
+      description: What real-world objects or people would live in this Realm?
+      placeholder: |
+        - Passport (asset)
+        - Travel buddy (living/person)
+        - Trip to Tokyo (abstract/project)
+    validations:
+      required: true
+  - type: textarea
+    id: skills
+    attributes:
+      label: Suggested Skills
+      description: What capabilities should Agents in this Realm have?
+      placeholder: |
+        - Flight search
+        - Itinerary planning
+        - Budget tracking
+    validations:
+      required: false
+  - type: textarea
+    id: cross-realm
+    attributes:
+      label: Cross-Realm Interactions
+      description: How might this Realm interact with other Realms (Pet, Finance, Health, etc.)?
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      description: References, existing tools, or personal use cases.
+    validations:
+      required: false

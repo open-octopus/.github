@@ -1,0 +1,44 @@
+name: Feature Request
+description: Suggest a new feature or enhancement.
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have an idea to improve OpenOctopus? We'd love to hear it!
+  - type: input
+    id: package
+    attributes:
+      label: Package / Component
+      description: Which package or area does this relate to?
+      placeholder: e.g. @openoctopus/core, tentacle CLI, RealmHub
+    validations:
+      required: false
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or Motivation
+      description: What problem does this solve, or what use case does it enable?
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution
+      description: Describe how you'd like this to work.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: Any other approaches you've thought about?
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      description: Mockups, references, or related issues.
+    validations:
+      required: false
