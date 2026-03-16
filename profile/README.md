@@ -34,6 +34,7 @@
 | **[casa](https://github.com/open-octopus/casa)** | Smart home integration |
 | **[homebrew-tap](https://github.com/open-octopus/homebrew-tap)** | `brew install openoctopus` |
 | **[openoctopus-ansible](https://github.com/open-octopus/openoctopus-ansible)** | Self-hosted deployment automation |
+| **[mcp-discord](https://github.com/open-octopus/mcp-discord)** | Discord MCP server for agent environments |
 | **[community](https://github.com/open-octopus/community)** | The Reef — community policies & docs |
 
 ### ✦ Core Concepts
