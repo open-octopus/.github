@@ -94,7 +94,7 @@ Dependency flow: `shared -> storage, core -> summon, channels -> ink -> tentacle
 - **Bug reports:** Use the bug report template
 - **Feature requests:** Use the feature request template
 - **Realm ideas:** Use the realm package request template
-- **Questions:** Join [The Reef on Discord](https://discord.gg/openoctopus)
+- **Questions:** Join [The Reef on Discord](https://discord.gg/mwNTk8g5fV)
 
 ## Code of Conduct
 

@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://openoctopus.club"><img src="https://img.shields.io/badge/Website-openoctopus.club-00D4AA?style=for-the-badge" alt="Website"></a>
   <a href="https://github.com/open-octopus/openoctopus"><img src="https://img.shields.io/badge/Core-OpenOctopus-6C3FA0?style=for-the-badge" alt="Core"></a>
-  <a href="https://discord.gg/openoctopus"><img src="https://img.shields.io/badge/Discord-The_Reef-5865F2?style=for-the-badge" alt="Discord"></a>
+  <a href="https://discord.gg/mwNTk8g5fV"><img src="https://img.shields.io/badge/Discord-The_Reef-5865F2?style=for-the-badge" alt="Discord"></a>
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ### 🌊 Get Involved
 
 - ⭐ Star [the core repo](https://github.com/open-octopus/openoctopus)
-- 💬 Join [The Reef (Discord)](https://discord.gg/openoctopus)
+- 💬 Join [The Reef (Discord)](https://discord.gg/mwNTk8g5fV)
 - 🐦 Follow [@openoctopus](https://x.com/openoctopus) on X
 
 <p align="center"><sub>Eight arms. Every realm covered. Your data, your tentacles.</sub></p>
